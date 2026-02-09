@@ -1,7 +1,6 @@
 BACKEND DEV SETUP (DEBIAN/UBUNTU)
 
-Script único para preparar uma máquina limpa para desenvolvimento backend.
-Tudo via apt, direto no sistema, sem gambiarra.
+Script único para preparar uma máquina limpa para desenvolvimento.
 
 Linguagens
 
