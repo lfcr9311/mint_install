@@ -125,3 +125,19 @@ echo "Docker:    $(docker -v)"
 echo "ngrok:     $(ngrok version)"
 echo "======================================="
 echo "Reinicie a sessão para usar docker sem sudo"
+
+
+
+
+
+
+flatpak install flathub com.sublimehq.SublimeText
+flatpak install flathub io.beekeeperstudio.Studio
+flatpak install flathub com.discordapp.Discord
+flatpak install flathub org.gimp.GIMP
+flatpak install flathub com.visualstudio.code
+flatpak install flathub com.anydesk.Anydesk
+flatpak install flathub com.github.IsmaelMartinez.teams_for_linux
+flatpak install flathub io.github.wiiznokes.fan-control
+flatpak install flathub dev.zed.Zed
+flatpak install flathub com.termius.Termius
